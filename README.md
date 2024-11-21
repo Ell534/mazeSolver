@@ -2,7 +2,7 @@
 
 This is a visual maze solver which uses the TKinter library in Python.
 
-It will draw a maze on screen and then implement an alogorithm to systematically solve the maze and draw a line to show you the progress.
+It will draw a maze on screen and then implement an algorithm to systematically solve the maze and draw a line to show you the progress.
 
 # Instructions
 To run this make sure you have python 3 installed as well as the TKinter library, the command below will install the TKinter library.
